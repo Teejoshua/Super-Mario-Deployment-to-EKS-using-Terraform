@@ -15,4 +15,4 @@
 
 ![supermario](https://imgur.com/rC4Qe8g.png)
 
-## #### Project Authored by [Joshua Tanimola](https://github.com/Teejoshua)
+## Project Authored by [Joshua Tanimola](https://github.com/Teejoshua)
